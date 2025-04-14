@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">🌱 Welcome, I'm Fiamori 🍃</h1>
 
-<!--
-**Fiamori/Fiamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57A773&center=true&vCenter=true&width=435&lines=Frontend+Developer+in+progress...;Nature+Lover+%F0%9F%8C%BF;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧚‍♀️ About Me
+
+- 🌿 I'm just starting my journey as a **Frontend Developer**
+- 💻 Learning HTML, CSS, JavaScript, and React
+- 🍵 Powered by tea, forest walks, and creative energy
+
+---
+
+### 🌳 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,github&theme=light" />
+</div>
+
+---
+
+### 📗 Currently Learning
+
+```txt
+📘 JavaScript Advanced
+📗 React.js Basics
+📙 Git & GitHub Workflows
